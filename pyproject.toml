@@ -1,0 +1,14 @@
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+readme = "README.md"
+license = { text = "MIT" }
+keywords = ["sample", "packaging"]
+
+[project.urls]
+Homepage = "github.com"
+"Bug Tracker" = "github.com/issues"
+Documentation = "my-awesome-project.readthedocs.io"
